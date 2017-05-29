@@ -445,15 +445,3 @@ bot.on("messageCreate", (msg) => {
 
 
 bot.connect();
-
-
-						/*EMBED STUFF FOR FUTURE USE BECAUSE I CAN
-						"content": "Your search:",
-						"embed": {
-						"title": r.title,
-						"description": r.description,
-						"color": 3447003,
-						"url": linkurl,
-						"thumbnail": {
-							"url": r.cover,
-							*/
